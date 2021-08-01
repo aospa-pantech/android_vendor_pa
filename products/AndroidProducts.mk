@@ -21,6 +21,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/chiron/pa_chiron.mk \
     $(LOCAL_DIR)/davinci/pa_davinci.mk \
     $(LOCAL_DIR)/dipper/pa_dipper.mk \
+    $(LOCAL_DIR)/ef63/pa_ef63.mk \
     $(LOCAL_DIR)/ef71/pa_ef71.mk \
     $(LOCAL_DIR)/equuleus/pa_equuleus.mk \
     $(LOCAL_DIR)/ginkgo/pa_ginkgo.mk \
@@ -54,6 +55,7 @@ COMMON_LUNCH_CHOICES += \
     pa_chiron-userdebug \
     pa_davinci-userdebug \
     pa_dipper-userdebug \
+    pa_ef63-userdebug \
     pa_ef71-userdebug \
     pa_equuleus-userdebug \
     pa_ginkgo-userdebug \
