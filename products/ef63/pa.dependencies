@@ -1,0 +1,26 @@
+[
+    {
+        "repository":   "aospa-pantech/android_device_pantech_ef63",
+        "target_path":  "device/pantech/ef63",
+        "remote":       "github",
+        "revision":     "quartz"
+    },
+    {
+        "repository":   "aospa-pantech/android_device_pantech_msm8974-common",
+        "target_path":  "device/pantech/msm8974-common",
+        "remote":       "github",
+        "revision":     "quartz"
+    },
+    {
+        "repository":   "aospa-pantech/android_kernel_pantech_msm8974",
+        "target_path":  "kernel/pantech/msm8974",
+        "remote":       "github",
+        "revision":     "quartz"
+    },
+    {
+        "repository":   "sky-vega-dev-team/android_vendor_pantech",
+        "target_path":  "vendor/pantech",
+        "remote":       "github",
+        "revision":     "lineage-17.1"
+    },
+]
