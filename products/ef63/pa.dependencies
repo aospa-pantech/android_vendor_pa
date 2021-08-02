@@ -22,5 +22,5 @@
         "target_path":  "vendor/pantech",
         "remote":       "github",
         "revision":     "lineage-17.1"
-    },
+    }
 ]
