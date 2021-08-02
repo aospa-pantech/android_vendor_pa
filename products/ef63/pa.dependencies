@@ -18,7 +18,7 @@
         "revision":     "quartz"
     },
     {
-        "repository":   "sky-vega-dev-team/android_vendor_pantech",
+        "repository":   "sky-vega-dev-team/vendor_pantech",
         "target_path":  "vendor/pantech",
         "remote":       "github",
         "revision":     "lineage-17.1"
