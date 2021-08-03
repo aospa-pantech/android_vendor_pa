@@ -70,5 +70,11 @@
         "target_path":  "system/tools/dtbtool",
         "remote":       "github",
         "revision":     "lineage-17.1"
+    },
+    {
+        "repository":   "AOSPA/android_vendor_pa-biometrics-face",
+        "target_path":  "vendor/pa/biometrics-face",
+        "remote":       "aospa",
+        "revision":     "quartz"
     }
 ]
