@@ -18,7 +18,7 @@
         "revision":     "quartz"
     },
     {
-        "repository":   "sky-vega-dev-team/vendor_pantech",
+        "repository":   "aospa-pantech/vendor_pantech",
         "target_path":  "vendor/pantech",
         "remote":       "github",
         "revision":     "lineage-17.1"
