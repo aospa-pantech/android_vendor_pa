@@ -21,7 +21,7 @@
         "repository":   "aospa-pantech/android_vendor_pantech",
         "target_path":  "vendor/pantech",
         "remote":       "github",
-        "revision":     "lineage-17.1"
+        "revision":     "quartz"
     },
     {
         "repository":   "AOSPA/android_hardware_qcom_audio",
