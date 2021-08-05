@@ -47,18 +47,6 @@
         "remote":       "aospa",
         "revision":     "quartz-aosp-wfd"
     },   
-    {
-        "repository":   "AOSPA/android_frameworks_opt_net_wifi",
-        "target_path":  "frameworks/opt/net/wifi",
-        "remote":       "aospa",
-        "revision":     "quartz-dev"
-    },   
-    {
-        "repository":   "AOSPA/android_packages_apps_Bluetooth",
-        "target_path":  "packages/apps/Bluetooth",
-        "remote":       "aospa",
-        "revision":     "quartz-dev"
-    },
     { 
         "repository":   "LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
         "target_path":  "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9",
